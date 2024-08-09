@@ -3,4 +3,4 @@ JANGAN DIJUAL BELAKAN YE BWANG !!!
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/Rizxcode/thema/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/Akunsultanbet/thema/main/install.sh)
